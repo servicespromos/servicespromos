@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1100" viewBox="0 0 900 1100" role="img" aria-label="Everyday Chinos">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e7dfd3"/><stop offset="1" stop-color="#ffffff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-opacity=".16"/></filter></defs>
+<rect width="900" height="1100" fill="url(#g)"/>
+<circle cx="720" cy="155" r="92" fill="#fff" opacity=".55"/>
+<circle cx="145" cy="920" r="145" fill="#fff" opacity=".45"/>
+<g filter="url(#s)">
+<rect x="240" y="230" width="420" height="560" rx="42" fill="#fff" opacity=".86"/>
+<path d="M320 320 L400 270 H500 L580 320 L540 405 L510 382 V745 H390 V382 L360 405 Z" fill="#111827" opacity=".9"/>
+<path d="M392 274 Q450 338 508 274" fill="none" stroke="#fff" stroke-width="16" stroke-linecap="round" opacity=".82"/>
+<rect x="350" y="825" width="200" height="44" rx="22" fill="#111827" opacity=".18"/>
+</g>
+<text x="450" y="925" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800" fill="#111827">Everyday Chinos</text>
+<text x="450" y="982" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="26" font-weight="700" letter-spacing="4" fill="#111827" opacity=".62">PANTS</text>
+</svg>
